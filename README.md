@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center"><img align="center" src="./images/kanye3.png" alt="Error 404" height="80"> Kanye</h1>
+  <h1 align="center"><img align="center" src="kanye3.png" alt="Error 404" height="80"> Kanye</h1>
 </div>
 
 ## About Weather-App:
