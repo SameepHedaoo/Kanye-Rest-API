@@ -2,7 +2,7 @@
   <h1 align="center"><img align="center" src="kanye3.png" alt="Error 404" height="80"> Kanye Says</h1>
 </div>
 
-## About Weather-App:
+## About Kanye Says-App:
 This is a basic application to fetch random Kanye West's tweets using Kanye REST-API made in Python using Tkinter library.
 
 ## Screen Shots:
