@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center"><img align="center" src="kanye3.png" alt="Error 404" height="80"> Kanye Says</h1>
+  <h1 align="center"><img align="center" src="kanye3.png" alt="Error 404" height="80"> Kanye Says..</h1>
 </div>
 
 ## About Kanye Says-App:
